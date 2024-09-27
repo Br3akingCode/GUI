@@ -1,2 +1,2 @@
 # GUI
-ALL assignments done in GUI class will be posted here as a backup in case files are lost
+These display all my current Graphical User Interface projects written in java using JavaFX
